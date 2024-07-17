@@ -10,7 +10,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='/reactexp3'>
       <Header />
       <main>
         <Routes>
